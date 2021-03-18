@@ -1,20 +1,22 @@
 h1 {
     text-align: center;
-    border:5px solid rgb(105, 16, 16);
+    border:10px solid rgb(105, 16, 16);
     margin: 50px;
     color: yellowgreen;
+    background-color: darkgreen;
+    font-style: italic;
 }
 
 #AboutMeList {
     color: yellowgreen;
     background-color: rgb(105, 16, 16);
-    border:10px solid rgb(3, 3, 53);
+    border:5px solid rgb(3, 3, 53);
 }
 
 #top10list {
     color: yellowgreen;
     background-color: rgb(105, 16, 16);
-    border: 10px solid rgb(3, 3, 53);
+    border: 5px solid rgb(3, 3, 53);
     text-align: left;
 
 }
